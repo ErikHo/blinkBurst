@@ -16,3 +16,9 @@ The circuit:
   If you want to know what pin the on-board LED is connected to on your
   Arduino model, check the Technical Specs of your board at:
   https://www.arduino.cc/en/Main/Products
+  
+(C) Erik Homburg 2017
+
+This work is licensed under the Creative Commons Attribution 4.0 International License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or 
+send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
