@@ -1,4 +1,4 @@
-#include <blinkBurst.h
+#include <blinkBurst.h>
 
 blinkBurst::begin(int ledPin, int numBlinks, unsigned long blinkTime, 
                   unsigned long blinkInterval, unsigned long burstInterval){
