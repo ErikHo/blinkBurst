@@ -4,7 +4,7 @@ Generate bursts of LED flashes separated by a waiting time on an Arduino.
 Turns on and off a LED with a specified 'on' time and a specified 'off' time. After 
 a defined number of on's the LED is off for a certain interval. 
 The light emitting diode (LED) connected to a digital pin.
-The timing mechanism used is as in ""BlinkWithoutDelay" from the Arduino Digital library.
+The timing mechanism used is as in "BlinkWithoutDelay" from the Arduino Digital library.
 This means that other code can run at the  same time without being interrupted by this 
 LED code.
 
