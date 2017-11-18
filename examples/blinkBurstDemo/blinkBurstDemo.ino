@@ -1,4 +1,6 @@
-blinkBurst myBurst;        // create mYBurst instance of the blinkBurst class
+#include <blinkBurst.h>
+
+blinkBurst myBurst;        // create myBurst instance of the blinkBurst class
 
 void setup() {
   // 4 times a flash of 50 ms separated by 100 ms, all of this separated by 1300 ms
