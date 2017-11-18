@@ -1,0 +1,5 @@
+blinkBurst	KEYWORD1
+
+begin		KEYWORD2
+
+doBurst		KEYWORD2
